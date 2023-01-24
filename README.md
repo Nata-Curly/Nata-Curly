@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Nata-Curly
 - 👀 I’m interested in internship
-- 🌱 I’m currently learning HTML & CSS for now, JS, React, Node.js - next step
+- 🌱 I learn HTML & CSS, JS, React, Node.js
 - 💞️ I’m looking to collaborate on new projects 
-- 📫 How to reach me linkedin.com/in/наталя-кучерява-416106137
+- 📫 How to reach me: linkedin.com/in/наталя-кучерява-416106137, nkucheryava@gmail.com
 
 <!---
 Nata-Curly/Nata-Curly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
