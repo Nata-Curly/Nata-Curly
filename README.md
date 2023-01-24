@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nata-Curly
+- 👋 Hi, I’m Natalia
 - 👀 I’m interested in internship
 - 🌱 I learn HTML & CSS, JS, React, Node.js
 - 💞️ I’m looking to collaborate on new projects 
