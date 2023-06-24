@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Natalia
 - 👀 I’m interested in internship
 - 🌱 I learn HTML & CSS, JS, React, Node.js
-- 💞️ I’m looking to collaborate on new projects 
+- 💞️ I’m looking for collaboration in new projects 
 - 📫 How to reach me: linkedin.com/in/наталя-кучерява-416106137, nkucheryava@gmail.com
 
 <!---
